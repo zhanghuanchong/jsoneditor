@@ -1,4 +1,8 @@
-# JSON Editor
+# JSON 编辑器
+
+> Forked from https://github.com/josdejong/jsoneditor
+
+* 目标: 添加多语言支持
 
 JSON Editor is a web-based tool to view, edit, format, and validate JSON.
 It has various modes such as a tree editor, a code editor, and a plain text
